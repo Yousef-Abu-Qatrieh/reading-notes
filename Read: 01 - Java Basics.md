@@ -14,14 +14,14 @@ Naming: set of rules and conventions for that we are use  to  name our (classes,
 3-	We can’t use reserved words as names
 4-	We can’t start the name  with number
 
-###Operators :
+### Operators :
 Is a symbol’s that usually represent an action or process. These symbols were adopted to :    
 
 ![Operators-Table](https://user-images.githubusercontent.com/97651232/155838262-c51d36f8-0b58-4330-a9de-2b71fa75ac77.png)
 
 
 
-###Control flow statements
+### Control flow statements
 We use them to control our data and how it will appear, there is different type of control flow statement like :
 1-	Looping   (for,while,do while)
 2-	Decision (if-then,if-then-else,nested if,ternary,switch)
