@@ -7,5 +7,5 @@ This website contain the reading notes of the course.
 Table Contents :   
 | The Code    | The Title   |  Link         |
 | -------     |    ------   |  --------     |
-|         1   | Java Basic  |  [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/README.md)       |
+|         1   | Java Basic  |  [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2001%20-%20Java%20Basics.md)       |
 |             |             |               |
