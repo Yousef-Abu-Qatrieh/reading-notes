@@ -4,8 +4,9 @@ My name is you Yousef Abu-Qatrieh I'm 26 years old, My major is Software enginee
 My hobby is fixxing computers and now I am enhance My programming skills to become a good Developer.   
 This website contain the reading notes of the course.   
 ## Code 401 - Advanced Software Development.   
-Table Contents :   
+Table Contents :  
+
 | The Code    | The Title   |  Link         |
 | -------     |    ------   |  --------     |
-|         1   | Java Basic  |  [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2001%20-%20Java%20Basics.md)       |
-|             |             |               |
+|         1   | Java Basic  | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2001%20-%20Java%20Basics.md) |
+
