@@ -44,4 +44,15 @@ import java.io.*;	Input-output classes.
 import java.text.*;	Some formatting classes.   
 import java.util.regex.*;	Regular expression classes.    
 
+## Loops   
+we use loop to execute code certain number of times    
+There is 3 types of loops   
+1- for loop  is a control structure that allows us to repeat certain operations by incrementing and evaluating a loop counter.   
+ex  for(intial ;condition;increment){}
+2- while loop The while loop is Java's most fundamental loop statement. It repeats a statement or a block of statements while its controlling Boolean-expression is true.   
+ex while (condition){ we can do increment inside it};    
+3- do while loop it will execute our code at least one    
+ex do{statements}while(condition);    
+
+
 Sorce: [Java Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html) 
