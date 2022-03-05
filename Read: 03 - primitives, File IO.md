@@ -24,3 +24,4 @@ There is 3 types of exceptions:
 We use scanner to read values form the user which can parse primitive types and strings using regular expressions.    
 The resulting tokens may then be converted into values of different types using the various next methods.    
 We use .close() to close the scanner   
+Sorce: [Java Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)   
