@@ -12,3 +12,4 @@ Table Contents :
 |         2   | Array Import packages|[Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2002%20-%20Arrays%2C%20Loops%2C%20Imports.md) |
 |         3   | Primitive,Reference File I,O| [link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2003%20-%20primitives%2C%20File%20IO.md)|
 |         4   | OOP         | [link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2004%20-%20OOP.md)
+|         5   | Linked List | [link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2005-Linked%20List.md)
