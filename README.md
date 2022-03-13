@@ -16,3 +16,4 @@ Table Contents :
 |         6   |Inheritance and Interfaces   |      [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2006%20-%20Inheritance%20and%20Interfaces.md)          |
 |         7   |             |                |
 |         8   | OO Design   | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2008%20-%20OO%20Design.md)|        
+|9            |  HTTP Request in Java | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2009%20-%20WRRC%20and%20Java.md)|     
