@@ -13,6 +13,6 @@ Table Contents :
 |         3   | Primitive,Reference File I,O| [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2003%20-%20primitives%2C%20File%20IO.md)|
 |         4   | OOP         | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2004%20-%20OOP.md)
 |         5   | Linked List | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2005-Linked%20List.md)
-|         6   |             |      [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2006%20-%20Inheritance%20and%20Interfaces.md)          |
+|         6   |Inheritance and Interfaces   |      [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2006%20-%20Inheritance%20and%20Interfaces.md)          |
 |         7   |             |                |
 |         8   | OO Design   | [Link](https://github.com/Yousef-Abu-Qatrieh/reading-notes/blob/main/Read:%2008%20-%20OO%20Design.md)|        
