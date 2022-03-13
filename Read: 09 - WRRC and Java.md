@@ -66,3 +66,4 @@ con.disconnect();
 If the request fails, trying to read the InputStream of the HttpUrlConnection instance won't work. Instead, we can consume the stream provided by HttpUrlConnection.getErrorStream().   
   
   
+ Source: [Baeldung](https://www.baeldung.com/java-http-request)
