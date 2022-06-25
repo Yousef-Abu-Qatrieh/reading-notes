@@ -15,3 +15,14 @@ If you’re just getting started with tech and are planning to become a social d
 Wondering what someone else’s first contribution was? You can easily find out any GitHub usernames “First Pull Request” here! (I think you’ll find that most people’s first PRs were relatively small like Kent’s).    
 We think that open source projects should value civility, kindness, and patience with new developers.   
 We encourage you to explore projects that have a published Code of Conduct.     
+
+
+# What Motivates a Developer to Contribute to Open-Source Software?
+1. Improve Coding Skills  
+As with almost all professionals, the only way to truly learn and perfect your craft is to practice, practice, practice. However, few professions provide the means to practice on real projects. A mechanic, for example, can gain skills and experience by working on his own car or a friend’s, but won’t necessarily receive the valuable feedback from a seasoned mechanic needed to further develop his skills.   
+
+2. Gain Early Experience    
+Another motivation that is closely related to the first point is that OSS provides young developers with useful and valuable experience often required by companies for employment, even for internships and entry-level positions.   
+
+3. Increase Community and Peer Recognition   
+Most people who are passionate about something strive to be recognized for the quality work they produce, and for some, developing software is a huge passion.      Recognition from members from the OSS community not only encourages and motivates a developer to improve his or her skills, it can also create a number of opportunities, such as job offers and invitations to attend conferences and events, etc.     
